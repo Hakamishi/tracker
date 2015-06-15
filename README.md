@@ -1,0 +1,1 @@
+Some attempts to work with JS Geolocation API
